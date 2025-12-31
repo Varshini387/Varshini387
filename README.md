@@ -14,9 +14,6 @@
 
 
 
-##  Tech Stack
-![Tech Stack](https://github.com/Varshini387/Varshini387/blob/main/techstack.png?raw=true)
-
 ## 🚀 Tech Stack 
 
 ###  Programming Languages
